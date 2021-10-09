@@ -1,5 +1,3 @@
-# title(){return this.options.title||this.options.name}
-
 ## Leads tracker
 
 A Chrome extention as a practical application for JS Scrimba course.
